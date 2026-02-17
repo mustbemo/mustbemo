@@ -25,7 +25,7 @@ Building [Invoiceapp.io](https://www.invoiceapp.io/), a modern billing platform.
   A desktop cricket app built with Tauri + Next.js for live scores, match details, and a floating live widget.
 
 - 🐦 **[Twitter App](https://twitter-danish.vercel.app/)**  
-  A Twitter style social app with feeds, posts, follow other users and authentication.
+  A social platform inspired by Twitter where users can post updates, follow other users, and interact through likes and a live feed.
 
 ---
 
