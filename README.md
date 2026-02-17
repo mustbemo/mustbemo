@@ -16,6 +16,19 @@ Building [Invoiceapp.io](https://www.invoiceapp.io/), a modern billing platform.
 
 ---
 
+## 🚀 Latest Projects
+
+- 🧾 **[InvoiceApp](https://www.invoiceapp.io/)**  
+  A invoicing SaaS for creating invoices, managing clients, and tracking payments. 1800+ invoices generated.
+
+- 🏏 **[Overa](https://github.com/mustbemo/overa)**  
+  A desktop cricket app built with Tauri + Next.js for live scores, match details, and a floating live widget.
+
+- 🐦 **[Twitter App](https://twitter-danish.vercel.app/)**  
+  A Twitter style social app with feeds, posts, follow other users and authentication.
+
+---
+
 ### 🛠 Top Skills
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
