@@ -24,7 +24,7 @@ Building [Invoiceapp.io](https://www.invoiceapp.io/), a modern billing platform.
 - 🏏 **[Overa](https://github.com/mustbemo/overa)**  
   A desktop cricket app built with Tauri + Next.js for live scores, match details, and a floating live widget.
 
-- 🌐 **[Portfolio](https://mohammeddanish.vercel.app/)**  
+- 🌐 **[Portfolio](https://modanish.in/)**  
   My personal portfolio with a clean UI and smooth animations using Framer Motion.
   
 - 🐦 **[Twitter App](https://twitter-danish.vercel.app/)**  
