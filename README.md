@@ -4,7 +4,6 @@ Full Stack Engineer and Founder
 
 Building [Invoiceapp.io](https://www.invoiceapp.io/), a modern billing platform.
 
-
 ---
 
 ### 🚀 What I Do
@@ -19,10 +18,13 @@ Building [Invoiceapp.io](https://www.invoiceapp.io/), a modern billing platform.
 ## 🚀 Latest Projects
 
 - 🧾 **[InvoiceApp](https://www.invoiceapp.io/)**  
-  A invoicing SaaS for creating invoices, managing clients, and tracking payments. 1800+ invoices generated.
+  An all-in-one invoicing platform for creating invoices and estimates, converting estimates to invoices, tracking payments, and managing clients and products. Comes with built-in analytics and AI-powered support for invoice and estimate workflows. 2000+ invoices created, ₹21M+ payments processed.
+
+- 💼 **[Jobsy](https://github.com/mustbemo/jobsy)**  
+  A self-hostable Chrome extension that helps you apply to jobs faster by summarizing job descriptions, checking resume fit, autofilling forms, and answering role-related questions.
 
 - 🏏 **[Overa](https://github.com/mustbemo/overa)**  
-  A desktop cricket app built with Tauri + Next.js for live scores, match details, and a floating live widget.
+  Track live, upcoming, and past cricket matches with detailed scores and stats. Subscribe to live matches for a floating real-time widget.
 
 - 🌐 **[Portfolio](https://modanish.in/)**  
   My personal portfolio with a clean UI and smooth animations using Framer Motion.
@@ -51,10 +53,8 @@ Building [Invoiceapp.io](https://www.invoiceapp.io/), a modern billing platform.
 ![React Query](https://img.shields.io/badge/React_Query-000000?style=flat)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
 
-
-
 ---
 
 ### 🤝 Connect
 
-📧 mohammeddanish.dev@gmail.com  
+📧 mohammeddanish.dev@gmail.com
