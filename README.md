@@ -18,7 +18,7 @@ Building [Invoiceapp.io](https://www.invoiceapp.io/), a modern billing platform.
 ## 🚀 Latest Projects
 
 - 🧾 **[InvoiceApp](https://www.invoiceapp.io/)**  
-  An all-in-one invoicing platform for creating invoices and estimates, converting estimates to invoices, tracking payments, and managing clients and products. Comes with built-in analytics and AI-powered support for invoice and estimate workflows. 2000+ invoices created, ₹21M+ payments processed.
+  An all-in-one invoicing platform for creating invoices and estimates, converting estimates to invoices, tracking payments, and managing clients and products. Comes with built-in analytics and AI-powered support for invoice and estimate workflows. 2,539 active invoices and 2,490 estimates, with ₹23.79 million (₹2.38 crore) in invoiced revenue and ₹18.01 million collected (75.7%).
 
 - 💼 **[Jobsy](https://github.com/mustbemo/jobsy)**  
   A self-hostable Chrome extension that helps you apply to jobs faster by summarizing job descriptions, checking resume fit, autofilling forms, and answering role-related questions.
