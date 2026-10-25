@@ -28,9 +28,6 @@ Building [Invoiceapp.io](https://www.invoiceapp.io/), a modern billing platform.
 
 - 🌐 **[Portfolio](https://modanish.in/)**  
   My personal portfolio with a clean UI and smooth animations using Framer Motion.
-  
-- 🐦 **[Twitter App](https://twitter-danish.vercel.app/)**  
-  A social platform inspired by Twitter where users can post updates, follow other users, and interact through likes and a live feed.
 
 ---
 
